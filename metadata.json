@@ -1,0 +1,6 @@
+{
+  "name": "Jarvin Kart Turbo 3D",
+  "description": "Juego de carreras arcade 3D de alta velocidad en Three.js y WebGL con modos Aventura, Arcade y Contrarreloj, personalización de karts, multijugador local de 1 a 4 jugadores en pantalla dividida y podio 3D.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
